@@ -49,7 +49,8 @@ Five sensor modalities — heart rate (HR), inter-beat interval (IBI), accelerom
 
 ## Dataset
 
-**Source:** [FatigueSet]((https://www.esense.io/datasets/fatigueset/)) — publicly available multimodal physiological fatigue benchmark.
+**Source:** [FatigueSet](https://www.esense.io/datasets/fatigueset) — publicly available multimodal physiological fatigue benchmark.
+
 
 ### Statistics
 
